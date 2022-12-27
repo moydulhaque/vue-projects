@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2 class="font-bold text-red-500">{{ msg }}</h2>
+    <button @click="test">Click Me</button>
   </div>
 </template>
 
